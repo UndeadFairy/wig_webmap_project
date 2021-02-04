@@ -5,7 +5,7 @@ Mentorship program project - creating webmap about projections and maps for kids
 ## Prerequisities
 
 - Python3
-- Node.js
+- Node.js >= 12
 - npm
 
 ## Installation
